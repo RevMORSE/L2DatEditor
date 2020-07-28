@@ -1,0 +1,19 @@
+UCHAR - Символ, 1 байт
+UBYTE - безнаковое число, 1 байт
+SHORT - число, 2 байта
+USHORT - безнаковое число, 2 байта
+UINT - безнаковое число, 4 байта
+INT - число, 4 байта
+CNTR - компактное число, 1-5 байт
+UNICODE - unicode текст
+ASCF - текст
+UNICODE_TRANSLATABLE - unicode текст (переводимый)
+ASCF_TRANSLATABLE - текст (переводимый)
+DOUBLE - натуральное число 8 байт
+FLOAT - натуральное число 4 байта
+LONG - число 8 байт
+RGBA - цвет с прозрачностью 4 байта
+RGB - цвет 3 байта
+HEX - hex 1 байт
+MAP_INT - название с L2GameDataName 4 байта
+MAP_INT_TRANSLATABLE - название с L2GameDataName 4 байта (переводимый)
